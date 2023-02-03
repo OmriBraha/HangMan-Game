@@ -1,5 +1,10 @@
 <h1>Hangman &#128054;&#128540;</h1>
 
+<p>
+  <img src="https://img.shields.io/badge/language-Java-orange.svg" alt="Java">
+  <img src="https://img.shields.io/badge/GUI-JavaFX-blue.svg" alt="JavaFX">
+</p>
+
 <p>A program that implements a classic Hangman game using Object-Oriented Programming principles in Java and a JavaFX GUI created with SceneBuilder.
 The game words are different types of dog breeds! &#128054;</p>
 
