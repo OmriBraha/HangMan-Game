@@ -24,5 +24,6 @@ The game will then start and you will have to guess the word by suggesting lette
 
 ![](https://media.giphy.com/media/ge8JVKZ4rBUQy6bm7q/giphy.gif)
 
-
+<h2>Contributing</h2>
+<p>Feel free to contribute to the repository by submitting pull requests. If you find a bug or have any suggestions, please open an issue.</p>
 
