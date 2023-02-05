@@ -19,7 +19,7 @@ The game words are different types of dog breeds! &#128054;</p>
 
 <h2>Usage</h2>
 
-<p>To use HangmanFX, simply run the program and start guessing the letters.
+<p>To use Hangman game, simply run the program and start guessing the letters.
 The game will then start and you will have to guess the word by suggesting letters. You have a limited number of incorrect guesses before the man is fully drawn and the game is lost. Good luck! &#128071;</p>
 
 ![](https://media.giphy.com/media/ge8JVKZ4rBUQy6bm7q/giphy.gif)
